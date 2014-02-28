@@ -11,12 +11,7 @@
           39.53793974517628
         ]
       }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {},
