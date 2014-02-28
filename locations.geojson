@@ -14,3 +14,19 @@
     }
   ]
 }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80473804473877,
+          33.51860657413199
+        ]
+      }
+    }
+  ]
+}
